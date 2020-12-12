@@ -1,0 +1,9 @@
+<mypat:patient xmlns:mypat="http://www.annakhuseinova.com/Patient">
+  <mypat:id>3</mypat:id>
+  <mypat:name>string</mypat:name>
+  <mypat:age>3</mypat:age>
+  <mypat:dob>2008-09-29</mypat:dob>
+  <mypat:email>string</mypat:email>
+  <mypat:gender>string</mypat:gender>
+  <mypat:phone>string</mypat:phone>
+</mypat:patient>
